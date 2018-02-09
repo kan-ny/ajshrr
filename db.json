@@ -19,13 +19,13 @@
 	 {				"id":3,
             "name":"nike",
               "year":"2007",
-  "rating":10,
+  "rating":9,
               "type":"running"
   
 			  
  },
 	 {				"id":4,
-            "name":"adidas_original",
+            "name":"asics",
               "year":"2000",
   "rating":6,
               "type":"basketball"
@@ -33,10 +33,18 @@
 			  
  },
 	 {				"id":5,
-            "name":"newbalance",
+            "name":"reebok",
               "year":"2001",
   "rating":8,
               "type":"cycling"
+  
+			  
+ },
+	 {				"id":6,
+            "name":"underarmor",
+              "year":"2010",
+  "rating":5,
+              "type":"swimming"
   
 			  
  }
