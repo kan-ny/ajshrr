@@ -1,7 +1,7 @@
 {
 "jobs":[
 	 {				"id":1,
-            "job-title":"Project Manager",
+            "jobtitle":"Project Manager",
               "company":"Dominos Pizza",
   "location":"San Francisco CA US",
               "type":"Full Time",
@@ -11,7 +11,7 @@
 			  
  },
  {				"id":2,
-            "job-title":"Graphics Designer",
+            "jobtitle":"Graphics Designer",
               "company":" AOK Security",
   "location":"San Francisco CA US",
               "type":"Full Time",
@@ -20,7 +20,7 @@
 			  
  },
   {				"id":3,
-            "job-title":"CTO",
+            "jobtitle":"CTO",
               "company":"Volja Events & Entertainment",
   "location":"San Francisco CA US",
               "type":"Full Time",
@@ -30,7 +30,7 @@
 			  
  },
 	 {			"id":4,
-            "job-title":"Human Resource Manager",
+            "jobtitle":"Human Resource Manager",
               "company":"Dropbox Inc",
   "location":"San Francisco CA US",
               "type":"Full Time",
@@ -40,7 +40,7 @@
 			  
  },
 	 {				"id":5,
-            "job-title":"Industrial Manager ",
+            "jobtitle":"Industrial Manager ",
               "company":"SaraLee",
   "location":"San Francisco CA US",
               "type":"Full Time",
@@ -50,7 +50,7 @@
 			  
  },
 	 {				"id":6,
-            "job-title":"Software Engineer",
+            "jobtitle":"Software Engineer",
               "company":"Daman ",
   "location":"San Francisco CA US",
               "type":"Full Time",
@@ -60,7 +60,7 @@
 			  
  },
 	 {				"id":7,
-            "job-title":"Program Development",
+            "jobtitle":"Program Development",
               "company":"Helix",
   "location":"San Francisco CA US",
               "type":"Full Time",
