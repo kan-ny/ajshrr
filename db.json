@@ -1,7 +1,7 @@
 {
 "jobs":[
 	 {				"id":1,
-            "jobtitle":"Project Manager",
+            "job-title":"Project Manager",
               "company":"Dominos Pizza",
   "location":"San Francisco CA US",
               "type":"Full Time",
@@ -11,8 +11,57 @@
 			  
  },
  {				"id":2,
-            "jobtitle":"Graphics Designer",
-              "company":"AOK security",
+            "job-title":"Graphics Designer",
+              "company":" AOK Security",
+  "location":"San Francisco CA US",
+              "type":"Full Time",
+	 "salary":"$25000-$35000",
+	  "department": "HR/Org.Development"
+			  
+ },
+  {				"id":3,
+            "job-title":"CTO",
+              "company":"Volja Events & Entertainment",
+  "location":"San Francisco CA US",
+              "type":"Full Time",
+	 "salary":"$25000-$35000",
+	  "department": "HR/Org.Development"
+  
+			  
+ },
+	 {			"id":4,
+            "job-title":"Human Resource Manager",
+              "company":"Dropbox Inc",
+  "location":"San Francisco CA US",
+              "type":"Full Time",
+	 "salary":"$25000-$35000",
+	  "department": "HR/Org.Development"
+  
+			  
+ },
+	 {				"id":5,
+            "job-title":"Industrial Manager ",
+              "company":"SaraLee",
+  "location":"San Francisco CA US",
+              "type":"Full Time",
+	 "salary":"$25000-$35000",
+	  "department": "HR/Org.Development"
+  
+			  
+ },
+	 {				"id":6,
+            "job-title":"Software Engineer",
+              "company":"Daman ",
+  "location":"San Francisco CA US",
+              "type":"Full Time",
+	 "salary":"$25000-$35000",
+	  "department": "HR/Org.Development"
+  
+			  
+ },
+	 {				"id":7,
+            "job-title":"Program Development",
+              "company":"Helix",
   "location":"San Francisco CA US",
               "type":"Full Time",
 	 "salary":"$25000-$35000",
