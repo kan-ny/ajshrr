@@ -74,7 +74,19 @@
   		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ7CYtXRYb-1MXDFlm9P1te3B5D0KQqKEroKleObbV6vswho5"
   
 			  
+ },
+	 {				"id":8,
+            "jobtitle":"Animator",
+              "company":"Atari",
+  "location":"San Francisco CA US",
+              "type":"Full Time",
+	 "salary":"$25000-$35000",
+	  "department": "HR/Org.Development",
+  		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIuN2NaNl-XWHFNF0X8t6QY4PoDfn33rbqTsPIItHypsuDsklfTg"
+  
+			  
  }
+	
   ]
 
 }
