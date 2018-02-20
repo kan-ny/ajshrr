@@ -18,7 +18,8 @@
               "type":"Full Time",
 	 "salary":"$25000-$35000",
 	  "department": "HR/Org.Development",
-  		"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT78gDZ3aZwHBpyMP_3nRtMA0CakC9g80D7EBFcAKEedJj0Zeii"
+	  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT78gDZ3aZwHBpyMP_3nRtMA0CakC9g80D7EBFcAKEedJj0Zeii"
+			  
  },
   {				"id":3,
             "jobtitle":"CTO",
@@ -27,7 +28,7 @@
               "type":"Full Time",
 	 "salary":"$25000-$35000",
 	  "department": "HR/Org.Development",
-  		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsaqoAxgPSYSYIpVMQNdMO1pYWsANzoSXPGyT7VXcD0jZGsLFM"
+	  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsaqoAxgPSYSYIpVMQNdMO1pYWsANzoSXPGyT7VXcD0jZGsLFM"
   
 			  
  },
@@ -38,7 +39,7 @@
               "type":"Full Time",
 	 "salary":"$25000-$35000",
 	  "department": "HR/Org.Development",
-  		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIvSZ6JmE3DZgbLu9ijsmCQACA0FUaZl56DS9g6ddwm7QF_CHD"
+	  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIvSZ6JmE3DZgbLu9ijsmCQACA0FUaZl56DS9g6ddwm7QF_CHD"
   
 			  
  },
@@ -49,18 +50,19 @@
               "type":"Full Time",
 	 "salary":"$25000-$35000",
 	  "department": "HR/Org.Development",
-  		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6b-VfAkA9UHnfKEeXWhuWE19TY0FXsyMOyL8dL9XoHmIlaEhK"
+	  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6b-VfAkA9UHnfKEeXWhuWE19TY0FXsyMOyL8dL9XoHmIlaEhK"
   
 			  
  },
 	 {				"id":6,
             "jobtitle":"Software Engineer",
-              "company":"Green Embral",
+              "company":"Daman ",
   "location":"San Francisco CA US",
               "type":"Full Time",
 	 "salary":"$25000-$35000",
 	  "department": "HR/Org.Development",
-  		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrO--Vjyb_n6GMheKXV7q3eDP1lUZDTibfy8yjjUy25gxv2wWuVw"
+	  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrO--Vjyb_n6GMheKXV7q3eDP1lUZDTibfy8yjjUy25gxv2wWuVw"
+  
   
 			  
  },
@@ -71,22 +73,167 @@
               "type":"Full Time",
 	 "salary":"$25000-$35000",
 	  "department": "HR/Org.Development",
-  		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ7CYtXRYb-1MXDFlm9P1te3B5D0KQqKEroKleObbV6vswho5"
+	  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ7CYtXRYb-1MXDFlm9P1te3B5D0KQqKEroKleObbV6vswho5"
   
 			  
  },
-	 {				"id":8,
-            "jobtitle":"Animator",
-              "company":"Atari",
+ {				"id":8,
+            "jobtitle":"Java Developer ",
+              "company":"Struts ",
   "location":"San Francisco CA US",
               "type":"Full Time",
 	 "salary":"$25000-$35000",
 	  "department": "HR/Org.Development",
-  		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIuN2NaNl-XWHFNF0X8t6QY4PoDfn33rbqTsPIItHypsuDsklfTg"
+	  "image":"https://www.immun.io/hubfs/Blog/Blog_Images/Apache-Struts-2-zero-day-3.jpg?t=1497390904600" 
+	  
+  
+			  
+ },
+ {			"id":9,
+            "jobtitle":"Associate-AssetManagement-InvestmentManagement ",
+              "company":"HuQuo",
+  "location":"US,NJ",
+              "type":"Full Time",
+	 "salary":"$25000-$35000",
+	  "department": "HR/Org.Development",
+	  "image":"https://media.glassdoor.com/sqll/1293415/huquo-squarelogo-1495694511681.png"
+  
+  
+			  
+ },
+  {				"id":10,
+            "jobtitle":"CTO",
+              "company":"Volja Events & Entertainment",
+  "location":"San Francisco CA US",
+              "type":"Full Time",
+	 "salary":"$25000-$35000",
+	  "department": "HR/Org.Development",
+	  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsaqoAxgPSYSYIpVMQNdMO1pYWsANzoSXPGyT7VXcD0jZGsLFM"
+  
+			  
+ },
+ {				"id":11,
+            "jobtitle":"Graphics Designer",
+              "company":" AOK Security",
+  "location":"San Francisco CA US",
+              "type":"Full Time",
+	 "salary":"$25000-$35000",
+	  "department": "HR/Org.Development",
+	  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT78gDZ3aZwHBpyMP_3nRtMA0CakC9g80D7EBFcAKEedJj0Zeii"
+			  
+ },
+ {				"id":12,
+            "jobtitle":"Project Manager",
+              "company":"Dominos Pizza",
+  "location":"San Francisco CA US",
+              "type":"Full Time",
+	 "salary":"$25000-$35000",
+	  "department": "HR/Org.Development",
+	  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6P7uuuBL2KmvdMRnPXYHvCHBdi43X1sd5fWSajwH5DJ8wQMtn"
+  
+			  
+ },
+ {				"id":13,
+            "jobtitle":"Senior Developer-SQL Server",
+               "company":"HuQuo",
+  "location":"US,NJ",
+              "type":"Full Time",
+	 "salary":"$25000-$35000",
+	  "department": "HR/Org.Development",
+	  "image":"https://media.glassdoor.com/sqll/1293415/huquo-squarelogo-1495694511681.png"
+  
+			  
+ },
+  {				"id":14,
+            "jobtitle":"Senior Developer-ASP",
+               "company":"HuQuo",
+  "location":"US,NJ",
+              "type":"Full Time",
+	 "salary":"$25000-$35000",
+	  "department": "HR/Org.Development",
+	  "image":"https://media.glassdoor.com/sqll/1293415/huquo-squarelogo-1495694511681.png"
+  
+			  
+ },
+ {				"id":15,
+            "jobtitle":"Senior Developer-WCF",
+              "company":"HuQuo",
+  "location":"US,NJ",
+              "type":"Full Time",
+	 "salary":"$25000-$35000",
+	  "department": "HR/Org.Development",
+	  "image":"https://media.glassdoor.com/sqll/1293415/huquo-squarelogo-1495694511681.png"
+			  
+ },
+ {				"id":16,
+            "jobtitle":"Senior Developer-C#",
+               "company":"HuQuo",
+  "location":"US,NJ",
+              "type":"Full Time",
+	 "salary":"$25000-$35000",
+	  "department": "HR/Org.Development",
+	  "image":"https://media.glassdoor.com/sqll/1293415/huquo-squarelogo-1495694511681.png"
+  
+			  
+ },
+ {			"id":17,
+            "jobtitle":".Net Architect",
+              "company":"HuQuo",
+  "location":"US,NJ",
+              "type":"Full Time",
+	 "salary":"$25000-$35000",
+	  "department": "HR/Org.Development",
+	  "image":"https://media.glassdoor.com/sqll/1293415/huquo-squarelogo-1495694511681.png"
+  
+			  
+ },
+ {				"id":18,
+            "jobtitle":"Associate-AssetManagement-InvestmentManagement ",
+              "company":"HuQuo",
+  "location":"US,NJ",
+              "type":"Full Time",
+	 "salary":"$25000-$35000",
+	  "department": "HR/Org.Development",
+	  "image":"https://media.glassdoor.com/sqll/1293415/huquo-squarelogo-1495694511681.png"
+  
+			  
+ },
+ {				"id":19,
+            "jobtitle":"Management Consultant",
+              "company":"Incedo Technology Solutions Ltd ",
+  "location":"San Francisco CA US",
+              "type":"Full Time",
+	 "salary":"$25000-$35000",
+	  "department": "HR/Org.Development",
+	  "image":"https://image3.mouthshut.com/images/imagesp/925859713s.jpg"
+  
+			  
+ },
+ {				"id":20,
+            "jobtitle":"Java Developers with Capital Market Experience",
+              "company":"Synechron Technologies Pvt Ltd ",
+  "location":"San Francisco CA US",
+              "type":"Full Time",
+	 "salary":"$25000-$35000",
+	  "department": "HR/Org.Development",
+	  "image":"https://1.bp.blogspot.com/-xe7n-KUysWE/WhukR7q_UHI/AAAAAAAAFPg/dhKn3CY4p5IW2nqLIOKOtA1DvO63j58zgCLcBGAs/s1600/synechron.jpg"
+  
+			  
+ },
+ {				"id":21,
+            "jobtitle":"Java Developer ",
+              "company":"Struts ",
+  "location":"San Francisco CA US",
+              "type":"Full Time",
+	 "salary":"$25000-$35000",
+	  "department": "HR/Org.Development",
+	  "image":"https://www.immun.io/hubfs/Blog/Blog_Images/Apache-Struts-2-zero-day-3.jpg?t=1497390904600"
   
 			  
  }
-	
+ 
+ 
+ 
   ]
 
 }
