@@ -1,13 +1,9 @@
 {
 "jobs":[
-	
-	
-	
-	
-	
-	 {				"id":1,
+		
+	 {"id":1,
             "jobtitle":"Project Manager",
-	  "jobdescription" : "Description for project manager in dominos",
+	  "jobdescription" : "Required description",
 	  "jobexplevel" : "2 years",
 	"country" : "US",
 	  "keyresponsibilities" : "responsibilities for manager",
@@ -20,9 +16,9 @@
   
 			  
  },
- {				"id":2,
+ {	"id":2,
             "jobtitle":"Graphics Designer",
-  "jobdescription" : "Description for graphics designer in AOK Security",
+  "jobdescription" : "Required description",
 	  "jobexplevel" : "1 year",
 	"country" : "India",
 	  "keyresponsibilities" : "responsibilities for designer",
@@ -36,7 +32,7 @@
  },
   {				"id":3,
             "jobtitle":"CTO",
-    "jobdescription" : "Description for CTO in volja",
+    "jobdescription" : "Required description",
 	  "jobexplevel" : "5 years",
 	"country" : "Canada",
 	  "keyresponsibilities" : "responsibilities for CTO",
@@ -51,7 +47,7 @@
  },
 	 {			"id":4,
             "jobtitle":"Human Resource Manager",
-	   "jobdescription" : "Description for HR manager in Dropbox",
+	   "jobdescription" : "Required description",
 	  "jobexplevel" : "3 years",
 	"country" : "US",
 	  "keyresponsibilities" : "responsibilities for manager",
@@ -66,7 +62,7 @@
  },
 	 {				"id":5,
             "jobtitle":"Industrial Manager ",
-	   "jobdescription" : "Description for industrial manager in SaraLee",
+	   "jobdescription" : "Required description",
 	  "jobexplevel" : "5 years",
 	"country" : "India",
 	  "keyresponsibilities" : "responsibilities for manager",
@@ -81,7 +77,7 @@
  },
 	 {				"id":6,
             "jobtitle":"Software Engineer",
-	   "jobdescription" : "Description for software engineer in Daman",
+	   "jobdescription" : "Required description",
 	  "jobexplevel" : "2 years",
 	"country" : "Canada",
 	  "keyresponsibilities" : "responsibilities for software engineer",
@@ -97,7 +93,7 @@
  },
 	 {				"id":7,
             "jobtitle":"Program Development",
-	   "jobdescription" : "Description for program developer in Helix",
+	   "jobdescription" : "Required description",
 	  "jobexplevel" : "2 years",
 	"country" : "US",
 	  "keyresponsibilities" : "responsibilities for program developer",
@@ -207,7 +203,6 @@
 	  "jobexplevel" : "5 years",
 	"country" : "India",
 	  "keyresponsibilities" : "responsibilities given",
-
                "company":"HuQuo",
   "location":"US,NJ",
               "type":"Full Time",
@@ -223,7 +218,6 @@
 	  "jobexplevel" : "5 years",
 	"country" : "Canada",
 	  "keyresponsibilities" : "responsibilities given",
-
               "company":"HuQuo",
   "location":"US,NJ",
               "type":"Full Time",
@@ -238,7 +232,6 @@
 	  "jobexplevel" : "5 years",
 	"country" : "US",
 	  "keyresponsibilities" : "responsibilities given",
-
                "company":"HuQuo",
   "location":"US,NJ",
               "type":"Full Time",
@@ -254,7 +247,6 @@
 	  "jobexplevel" : "5 years",
 	"country" : "India",
 	  "keyresponsibilities" : "responsibilities given",
-
               "company":"HuQuo",
   "location":"US,NJ",
               "type":"Full Time",
@@ -270,7 +262,6 @@
 	  "jobexplevel" : "5 years",
 	"country" : "Canada",
 	  "keyresponsibilities" : "responsibilities given",
-
               "company":"HuQuo",
   "location":"US,NJ",
               "type":"Full Time",
@@ -286,7 +277,6 @@
 	  "jobexplevel" : "5 years",
 	"country" : "US",
 	  "keyresponsibilities" : "responsibilities given",
-
               "company":"Incedo Technology Solutions Ltd ",
   "location":"San Francisco CA US",
               "type":"Full Time",
@@ -302,7 +292,6 @@
 	  "jobexplevel" : "5 years",
 	"country" : "India",
 	  "keyresponsibilities" : "responsibilities given",
-
               "company":"Synechron Technologies Pvt Ltd ",
   "location":"San Francisco CA US",
               "type":"Full Time",
@@ -318,7 +307,6 @@
 	  "jobexplevel" : "5 years",
 	"country" : "Canada",
 	  "keyresponsibilities" : "responsibilities given",
-
               "company":"Struts ",
   "location":"San Francisco CA US",
               "type":"Full Time",
